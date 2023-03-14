@@ -1,0 +1,44 @@
+{
+    "spritemap": {
+        "button": {
+            "start": 0,
+            "end": 0.422,
+            "loop": false
+        },
+        "dice": {
+            "start": 0.422,
+            "end": 1.175,
+            "loop": false
+        },
+        "finish": {
+            "start": 1.175,
+            "end": 2.634,
+            "loop": false
+        },
+        "jump": {
+            "start": 2.634,
+            "end": 2.923,
+            "loop": false
+        },
+        "kick": {
+            "start": 2.923,
+            "end": 4.56,
+            "loop": false
+        },
+        "safe": {
+            "start": 4.56,
+            "end": 5.133,
+            "loop": false
+        },
+        "timer": {
+            "start": 5.133,
+            "end": 5.266,
+            "loop": false
+        },
+        "victory": {
+            "start": 5.266,
+            "end": 9.136,
+            "loop": false
+        }
+    }
+}
